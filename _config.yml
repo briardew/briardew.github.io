@@ -46,8 +46,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: NASA Goddard Space Flight Center
-  - line: Greenbelt, Maryland, USA
+  - line: Washington, DC, USA
 
 # Credits content
 credits: 'Credits'
