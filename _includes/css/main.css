@@ -299,10 +299,10 @@ section.success {
 
 .btn-revline {
     margin-top: 15px;
-    border: solid 2px #fff;    
+    border: solid 2px #{{ site.color.primary }};
     font-size: 20px;
     color: #{{ site.color.primary }};
-    background: #fff;
+    background: 0 0;
     transition: all .3s ease-in-out;
 }
 
@@ -310,9 +310,9 @@ section.success {
 .btn-revline:focus,
 .btn-revline:active,
 .btn-revline.active {
-    border: solid 2px #fff;
+    border: solid 2px #{{ site.color.primary }};
     color: #fff;
-    background: 0 0;
+    background: #{{ site.color.primary }};
 }
 
 .floating-label-form-group {
