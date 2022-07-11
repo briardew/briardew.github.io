@@ -297,6 +297,24 @@ section.success {
     background: #fff;
 }
 
+.btn-revline {
+    margin-top: 15px;
+    border: solid 2px #fff;    
+    font-size: 20px;
+    color: #{{ site.color.primary }};
+    background: #fff;
+    transition: all .3s ease-in-out;
+}
+
+.btn-revline:hover,
+.btn-revline:focus,
+.btn-revline:active,
+.btn-revline.active {
+    border: solid 2px #fff;
+    color: #fff;
+    background: 0 0;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
