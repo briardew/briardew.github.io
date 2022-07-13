@@ -3,7 +3,7 @@ Brad Weir's GitHub page
 
 This is my GitHub page.
 
-It uses the Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/).
+It uses the Jekyll theme based on [Freelancer bootstrap theme](http://startbootstrap.com/template-overviews/freelancer/).
 The remainder of this file is the `README.md` file for the theme.
 
 ## How to use
