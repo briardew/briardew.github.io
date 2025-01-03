@@ -319,7 +319,7 @@ section.success {
 
 .btn-sucline {
     margin-top: 15px;
-    border: solid 2px white;
+    border: solid 2px #fff;
     font-size: 20px;
     color: #fff;
     background: #{{ site.color.primary }};
@@ -330,7 +330,7 @@ section.success {
 .btn-sucline:focus,
 .btn-sucline:active,
 .btn-sucline.active {
-    border: solid 2px white;
+    border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
 }
