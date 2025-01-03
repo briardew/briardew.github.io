@@ -317,24 +317,6 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
-.btn-sucline {
-    margin-top: 15px;
-    border: solid 2px #fff;
-    font-size: 20px;
-    color: #fff;
-    background: #{{ site.color.primary }};
-    transition: all .3s ease-in-out;
-}
-
-.btn-sucline:hover,
-.btn-sucline:focus,
-.btn-sucline:active,
-.btn-sucline.active {
-    border: solid 2px #fff;
-    color: #{{ site.color.primary }};
-    background: #fff;
-}
-
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
